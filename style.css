@@ -248,7 +248,7 @@ h1.product_title, p.price{ margin-bottom:10px;}
 .wpcf7{ margin:30px 0 0; padding:0;}
 .wpcf7 input[type="text"], .wpcf7 input[type="tel"], .wpcf7 input[type="email"]{ width:40%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:35px; padding:0 15px; color:#797979; margin-bottom:0;}
 .wpcf7 textarea{width:60%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:150px; color:#797979; margin-bottom:25px; font:12px arial; padding:10px; padding-right:0;}
-.wpcf7 input[type="submit"]{background-color:#1874c1; width:auto; border:none; cursor:pointer; font:18px 'Roboto',san-serif; color:#ffffff; padding:10px 40px; border-radius:3px;}	
+.wpcf7 input[type="submit"]{background-color:#1874c1; width:auto; border:none; cursor:pointer; font:18px 'Roboto',san-serif; color:#ffffff; padding:10px 40px; border-radius:3px;}
 
 /* ============= Comment Form ============ */
 h1.screen-reader-text{font:22px 'Roboto',san-serif;}

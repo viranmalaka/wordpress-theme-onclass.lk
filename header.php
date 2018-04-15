@@ -78,7 +78,7 @@
             <div class="getaquote">
                 <ul>
                     <li>
-                        <a href="/app">Go To APP</a>
+                        <a href="/app" style="color: black">>> Go To APP</a>
                     </li>
                 </ul>
             </div>

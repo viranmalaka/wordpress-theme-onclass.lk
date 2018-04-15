@@ -30,7 +30,7 @@ get_header(); ?>
                     
             </section><!-- section-->
    
-     <?php get_sidebar();?>      
+<!--     --><?php //get_sidebar();?><!--      -->
     <div class="clear"></div>
     </div><!-- .page_content --> 
  </div><!-- .container --> 

@@ -125,7 +125,7 @@ function movers_packers_font_url(){
 
 function movers_packers_scripts() {
 	wp_enqueue_style('movers-packers-font', movers_packers_font_url(), array());
-	wp_enqueue_style( 'movers-packers-basic-style', get_stylesheet_uri()  , array(), rand(111,9999), 'all');
+	wp_enqueue_style( 'movers-packers-basic-style', get_stylesheet_uri());
 	wp_enqueue_style( 'nivoslider-style', get_template_directory_uri().'/css/nivo-slider.css' );
 	wp_enqueue_style( 'movers-packers-main-style', get_template_directory_uri().'/css/responsive.css' );		
 	wp_enqueue_style( 'movers-packers-base-style', get_template_directory_uri().'/css/style_base.css' );

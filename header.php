@@ -200,8 +200,9 @@
         <?php if (get_theme_mod('hide_column') == '') { ?>
             <div id="pagearea">
             <div class="container">
+                
                 <div class="threebox">
-                    <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/onclass/marketing/4.png" alt="">
+                    <a href="https://docs.google.com/document/d/1e0_sXoIJtM6QYCje_Qu5-lsknIIZQ9em5a1fBH4J30Y/edit?usp=sharing"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/onclass/marketing/4.png" alt=""></a>
                  </div>
                 <div class="threebox">
                     <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/onclass/marketing/1.png" alt="">
@@ -332,7 +333,7 @@
     <div id="pagearea">
         <div class="container">
             <div class="threebox">
-                <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/onclass/marketing/4.png" alt="">
+                <a href="https://docs.google.com/document/d/1e0_sXoIJtM6QYCje_Qu5-lsknIIZQ9em5a1fBH4J30Y/edit?usp=sharing"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/onclass/marketing/4.png" alt=""></a>
             </div>
             <div class="threebox">
                 <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/onclass/marketing/1.png" alt="">

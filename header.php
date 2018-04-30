@@ -148,21 +148,21 @@
                         <div id="slidecaption1" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>time</span></h2>
-                                <p style="font-weight:bold;">exam ලංවෙනකොට කොච්චර නම් paper class වලට යනවද?. දැන් එහෙම යන්න ඕනි onclass.lk තියනවා.</p>
+                                <p style="font-weight:bold;">බස් එකේ, වාහනේ යන ගමන් Revision කරන්න ලංකාවේ ජනප්‍රියම Class ගොඩක් දැන් ඔබේ Smart Phone එකට.</p>
                             </div>
                         </div>
 
                         <div id="slidecaption2" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>money</span></h2>
-                                <p style="font-weight:bold;">එක එක sir ලගේ එක එක class වලට ගියේ tute ටික ගන්න නේ? එයාලගේ ප්‍රශ්න ටික කරන්න නේ?. දැන් ලංකාවේ ඕනිම තැනක ඉන්න sir කෙනෙක ගේ class එකකට ඔයාටත් යන්න පුලුවන්.  ඔයාට free ඕනිම වෙලාවක.</p
+                                <p style="font-weight:bold;">Class ගොඩකට යන සල්ලි ඉතුරු කරගෙන Smart Phone එකෙන් Class යන්න ලංකාවේ ජනප්‍රියම ගුරුවරුන් සියල්ලම එකම තැනක</p
                                 ></div>
                         </div>
 
                         <div id="slidecaption3" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>energy</span></h2>
-                                <p style="font-weight:bold;">පාරේ කට්ට කල class ගිහින් papers කරපු කලේ ඉවරයි.</p
+                                <p style="font-weight:bold;">දුර ගෙවාගෙන Class ගිය කාලෙ ඉවරයි. දැන් ගෙදර ඉදන්ම Class යන්න onClass.lk</p
                                 ></div>
                         </div>
                     </div>
@@ -244,21 +244,21 @@
                         <div id="slidecaption1" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>time</span></h2>
-                                <p style="font-weight:bold;">exam ලංවෙනකොට කොච්චර නම් paper class වලට යනවද?. දැන් එහෙම යන්න ඕනි onclass.lk තියනවා.</p>
+                                <p style="font-weight:bold;">බස් එකේ, වාහනේ යන ගමන් Revision කරන්න ලංකාවේ ජනප්‍රියම Class ගොඩක් දැන් ඔබේ Smart Phone එකට.</p>
                             </div>
                         </div>
 
                         <div id="slidecaption2" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>money</span></h2>
-                                <p style="font-weight:bold;">එක එක sir ලගේ එක එක class වලට ගියේ tute ටික ගන්න නේ? එයාලගේ ප්‍රශ්න ටික කරන්න නේ?. දැන් ලංකාවේ ඕනිම තැනක ඉන්න sir කෙනෙක ගේ class එකකට ඔයාටත් යන්න පුලුවන්.  ඔයාට free ඕනිම වෙලාවක.</p
+                                <p style="font-weight:bold;">Class ගොඩකට යන සල්ලි ඉතුරු කරගෙන Smart Phone එකෙන් Class යන්න ලංකාවේ ජනප්‍රියම ගුරුවරුන් සියල්ලම එකම තැනක</p
                                 ></div>
                         </div>
 
                         <div id="slidecaption3" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>energy</span></h2>
-                                <p style="font-weight:bold;">පාරේ කට්ට කල class ගිහින් papers කරපු කලේ ඉවරයි.</p
+                                <p style="font-weight:bold;">දුර ගෙවාගෙන Class ගිය කාලෙ ඉවරයි. දැන් ගෙදර ඉදන්ම Class යන්න onClass.lk</p
                                 ></div>
                         </div>
                     </div>
@@ -280,21 +280,21 @@
                         <div id="slidecaption1" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>time</span></h2>
-                                <p style="font-weight:bold;">exam ලංවෙනකොට කොච්චර නම් paper class වලට යනවද?. දැන් එහෙම යන්න ඕනි onclass.lk තියනවා.</p>
+                                <p style="font-weight:bold;">බස් එකේ, වාහනේ යන ගමන් Revision කරන්න ලංකාවේ ජනප්‍රියම Class ගොඩක් දැන් ඔබේ Smart Phone එකට.</p>
                             </div>
                         </div>
 
                         <div id="slidecaption2" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>money</span></h2>
-                                <p style="font-weight:bold;">එක එක sir ලගේ එක එක class වලට ගියේ tute ටික ගන්න නේ? එයාලගේ ප්‍රශ්න ටික කරන්න නේ?. දැන් ලංකාවේ ඕනිම තැනක ඉන්න sir කෙනෙක ගේ class එකකට ඔයාටත් යන්න පුලුවන්.  ඔයාට free ඕනිම වෙලාවක.</p
+                                <p style="font-weight:bold;">Class ගොඩකට යන සල්ලි ඉතුරු කරගෙන Smart Phone එකෙන් Class යන්න ලංකාවේ ජනප්‍රියම ගුරුවරුන් සියල්ලම එකම තැනක</p
                                 ></div>
                         </div>
 
                         <div id="slidecaption3" class="nivo-html-caption">
                             <div class="slide_info">
                                 <h2>Save your <span>energy</span></h2>
-                                <p style="font-weight:bold;">පාරේ කට්ට කල class ගිහින් papers කරපු කලේ ඉවරයි.</p
+                                <p style="font-weight:bold;">දුර ගෙවාගෙන Class ගිය කාලෙ ඉවරයි. දැන් ගෙදර ඉදන්ම Class යන්න onClass.lk</p
                                 ></div>
                         </div>
                     </div>
